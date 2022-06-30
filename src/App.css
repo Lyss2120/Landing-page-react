@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: rgba(208, 208, 209, 0.346);
+}
+
+.App {
+  text-align: center;
+}
+
